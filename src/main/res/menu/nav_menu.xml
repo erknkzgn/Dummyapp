@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/categories"
+        android:icon="@drawable/outline_home_24"
+        android:title="Kategori"/>
+    <item android:id="@+id/favorites"
+        android:icon="@drawable/baseline_favorite"
+        android:title="Favoriler"/>
+    <item android:id="@+id/basket"
+        android:icon="@drawable/outline_shopping_basket_24"
+        android:title="Sepetim"/>
+    <item android:id="@+id/my_account"
+        android:icon="@drawable/outline_account_circle_24"
+        android:title="Account" />
+</menu>
